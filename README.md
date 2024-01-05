@@ -5,12 +5,15 @@ Final capstone project for Meta Front-end developer program on Coursera, which c
 ## Screenshot
 
 ### Home Page
+<img width="1845" alt="home" src="https://github.com/ruvamd/little-lemon/assets/57729180/7c4bc39d-338d-46c2-9eb1-02f98f97d827">
 
 
 ### About us
+<img width="1852" alt="about" src="https://github.com/ruvamd/little-lemon/assets/57729180/e8949202-d408-403a-9310-e7d8428e88e0">
 
 
 ### Booking Page
+<img width="1828" alt="booking" src="https://github.com/ruvamd/little-lemon/assets/57729180/dd8a2048-4976-4568-9894-f570d4b1f82f">
 
 
 
